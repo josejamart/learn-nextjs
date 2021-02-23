@@ -1,0 +1,11 @@
+{
+    "request": {
+      "url": "/api/location-events",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "bodyFileName": "GET-location-events.json"
+    },
+    "delay" : 2000
+  }

@@ -1,0 +1,11 @@
+{
+    "request": {
+      "url": "/api/events",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "bodyFileName": "GET-events.json"
+    },
+    "delay" : 2000
+  }

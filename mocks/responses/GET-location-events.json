@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "id": "uno-m",
+      "name": "evento Madrid 1"
+    },
+    {
+      "id": "dos-m",
+      "name": "evento Madrid 2"
+    }
+  ]
+}
