@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "concurrently \"next dev\" \"node ./mocks/server.js\"",
     "build": "concurrently -k \"next build\" \"node ./mocks/server.js\"",
+    "export": "concurrently -k \"next export\" \"node ./mocks/server.js\"",
     "start": "concurrently \"next start\" \"node ./mocks/server.js\""
   },
   "dependencies": {
